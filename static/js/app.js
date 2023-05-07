@@ -66,32 +66,32 @@ const cardsWrapper = document.querySelector(".cards-wrapper");
 
 const data = [
   {
-    image: '../static/img/page1/png/card-flight.png',
+    image: 'static/img/page1/png/card-flight.png',
     title: 'FLIGHT BOOKING',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem.',
   },
   {
-    image: '../static/img/page1/png/card-hotel.png',
+    image: 'static/img/page1/png/card-hotel.png',
     title: 'HOTEL & RESORT BOOKING',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem.',
   },
   {
-    image: '../static/img/page1/png/card-beach.png',
+    image: 'static/img/page1/png/card-beach.png',
     title: 'FAMILY TRIP PLANNER',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem.',
   },
   {
-    image: '../static/img/page1/png/card-cruise.png',
+    image: 'static/img/page1/png/card-cruise.png',
     title: 'CRUISE TOUR',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem.',
   },
   {
-    image: '../static/img/page1/png/card-camp.png',
+    image: 'static/img/page1/png/card-camp.png',
     title: 'FIRE CAMP',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem.',
   },
   {
-    image: '../static/img/page1/png/card-corporate.png',
+    image: 'static/img/page1/png/card-corporate.png',
     title: 'CORPORATE HOLIDAYS',
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem.',
   }
